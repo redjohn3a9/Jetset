@@ -11,5 +11,5 @@ package jetsetmagazine;
  * @author oukhay
  */
 public class ThisClass {
-    
+    sdlvnsdlvnsdlvsdvsdv
 }
