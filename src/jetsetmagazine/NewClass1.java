@@ -11,5 +11,6 @@ package jetsetmagazine;
  * @author oukhay
  */
 public class NewClass1 {
+   String i;
     
 }
