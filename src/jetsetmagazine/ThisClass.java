@@ -10,6 +10,6 @@ package jetsetmagazine;
  *
  * @author oukhay
  */
-public class NewClass {
+public class ThisClass {
     
 }
